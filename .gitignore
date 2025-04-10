@@ -47,6 +47,35 @@
 *.cmd
 .tmp_versions/
 modules.order
+
+# STM32CubeIDE
+.settings/
+.metadata/
+.project
+.cproject
+
+# CubeMX
+*.ioc
+
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Misc STM32 files 
+*.lst
+*.map
+*.log
+*.dep
+*.srec
+*.dasm
+*.lss
+*.axf
+
+# Build Directories
+/Debug/
+/Release/
+/build/
+
+# Auto-generated AI files
+/AI_Resources/
+/X-CUBE-AI/
