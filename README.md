@@ -27,7 +27,7 @@ Affordable, intelligent tracking telescopes are essential tools in education, am
 
 ## Hardware Involved
 
-- STM32 Microcontroller (Nucleo or STM32N6 series)
+- STM32 Microcontroller (Nucleo F446 and later on STM32N6 series)
 - IMU Sensor (e.g., MPU-6050, BNO055)
 - Stepper Motor Driver (e.g., TMC2209, A4988)
 - Optional FPGA Acceleration
