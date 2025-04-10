@@ -41,6 +41,8 @@ Affordable, intelligent tracking telescopes are essential tools in education, am
 - STM32Cube.AI
 - Edge Impulse (for AI model training)
 - C/C++ for firmware development
+- Fusion 360 for the design of the mechanical actuator
+- KiCAD for PCB design + FreeCAD for housing/actuator parts
 - Optional: Python/Matplotlib for data analysis and testing
 
 ## Applications
